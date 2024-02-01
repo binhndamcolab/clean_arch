@@ -6,9 +6,7 @@ class Themes {
 
   static const colorScheme = const ColorScheme(
     primary: const Color(0xFFfe832a),
-    primaryVariant: const Color(0xFFfe832a),
     secondary: const Color(0xFFFDB434),
-    secondaryVariant: const Color(0xFFFDB434),
     surface: Colors.white,
     background: Colors.white,
     error: const Color(0xffe44034),
